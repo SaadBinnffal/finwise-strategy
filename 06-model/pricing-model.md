@@ -1,4 +1,3 @@
-[pricing-model.md](https://github.com/user-attachments/files/34089601/pricing-model.md)
 # The Model · FinWise
 
 > Module 6 · Proposed recommendation to FinWise leadership. No pricing test has run.

@@ -1,4 +1,3 @@
-[experiment-brief.md](https://github.com/user-attachments/files/33981012/experiment-brief.md)
 # The Validation · FinWise
 
 > Module 5 · Proposed experiment brief. Classroom design only: no live experiment, result, or lift is claimed. Builds on the optional collaboration bet in M1, the four-screen onboarding prototype in M2, and the unresolved activation-to-payment link in M4.
@@ -50,3 +49,6 @@
 **Read-date rule:** Keep the pre-specified recruitment window and analysis date; record an inconclusive result if volume or precision is insufficient. If the pre-launch feasibility check fails, redesign and document the schedule before launch rather than promise an arbitrary two-week answer. Monitor data quality, operational failures, and serious guardrail harm during the test; follow pre-specified safety stopping rules.
 
 **Connection to M4:** Monthly import usage was not a validated predictor of payment. This experiment therefore measures the joint own-data-to-first-model outcome and treats payment and retention as downstream checks. It does not assume that increasing import usage alone will fix conversion.
+
+**Submission:** Save this file as `05-validation/experiment-brief.md`. The landing-page A/B practice analysis is separate and is not included in this repo deliverable.
+

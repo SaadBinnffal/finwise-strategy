@@ -1,4 +1,3 @@
-[data-signals.md](https://github.com/user-attachments/files/33912630/data-signals.md)
 # The Signals · FinWise
 
 > Module 4 · Data literacy and metrics. Source: the 13-month course table supplied in the lab, October 2023 to October 2024. Computations use full precision before display rounding.
